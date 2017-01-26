@@ -1,5 +1,7 @@
 # React dump components
 
+[![build status](https://img.shields.io/travis/razvanip/reactjs-components/master.svg?style=flat-square)](https://travis-ci.org/razvanip/reactjs-components)
+
 ## Installation
 ```
 
